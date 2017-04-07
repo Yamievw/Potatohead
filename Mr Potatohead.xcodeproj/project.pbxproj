@@ -38,7 +38,7 @@
 		6CB9EBA61E93B942009787FB = {
 			isa = PBXGroup;
 			children = (
-				6CB9EBB11E93B942009787FB /* Mr Potatohead */,
+				6CB9EBB11E93B942009787FB /* YamievanWijnbergen-pset1 */,
 				6CB9EBB01E93B942009787FB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6CB9EBB11E93B942009787FB /* Mr Potatohead */ = {
+		6CB9EBB11E93B942009787FB /* YamievanWijnbergen-pset1 */ = {
 			isa = PBXGroup;
 			children = (
 				6CB9EBB21E93B942009787FB /* AppDelegate.swift */,
@@ -61,6 +61,7 @@
 				6CB9EBBB1E93B942009787FB /* LaunchScreen.storyboard */,
 				6CB9EBBE1E93B942009787FB /* Info.plist */,
 			);
+			name = "YamievanWijnbergen-pset1";
 			path = "Mr Potatohead";
 			sourceTree = "<group>";
 		};
