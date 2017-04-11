@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C78F1B71E9CE21400CFF462 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 6C78F1B61E9CE21400CFF462 /* README.md */; };
+		6C78F1B91E9CE2AD00CFF462 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C78F1B81E9CE2AD00CFF462 /* screenshot.png */; };
 		6CB9EBB31E93B942009787FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB9EBB21E93B942009787FB /* AppDelegate.swift */; };
 		6CB9EBB51E93B942009787FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CB9EBB41E93B942009787FB /* ViewController.swift */; };
 		6CB9EBB81E93B942009787FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CB9EBB61E93B942009787FB /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C78F1B61E9CE21400CFF462 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		6C78F1B81E9CE2AD00CFF462 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		6CB9EBAF1E93B942009787FB /* Mr Potatohead.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mr Potatohead.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CB9EBB21E93B942009787FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CB9EBB41E93B942009787FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +42,7 @@
 		6CB9EBA61E93B942009787FB = {
 			isa = PBXGroup;
 			children = (
+				6C78F1B81E9CE2AD00CFF462 /* screenshot.png */,
 				6CB9EBB11E93B942009787FB /* YamievanWijnbergen-pset1 */,
 				6CB9EBB01E93B942009787FB /* Products */,
 			);
@@ -58,6 +63,7 @@
 				6CB9EBB41E93B942009787FB /* ViewController.swift */,
 				6CB9EBB61E93B942009787FB /* Main.storyboard */,
 				6CB9EBB91E93B942009787FB /* Assets.xcassets */,
+				6C78F1B61E9CE21400CFF462 /* README.md */,
 				6CB9EBBB1E93B942009787FB /* LaunchScreen.storyboard */,
 				6CB9EBBE1E93B942009787FB /* Info.plist */,
 			);
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C78F1B91E9CE2AD00CFF462 /* screenshot.png in Resources */,
 				6CB9EBBD1E93B942009787FB /* LaunchScreen.storyboard in Resources */,
 				6CB9EBBA1E93B942009787FB /* Assets.xcassets in Resources */,
 				6CB9EBB81E93B942009787FB /* Main.storyboard in Resources */,
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C78F1B71E9CE21400CFF462 /* README.md in Sources */,
 				6CB9EBB51E93B942009787FB /* ViewController.swift in Sources */,
 				6CB9EBB31E93B942009787FB /* AppDelegate.swift in Sources */,
 			);
@@ -302,6 +310,7 @@
 				6CB9EBC31E93B942009787FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
